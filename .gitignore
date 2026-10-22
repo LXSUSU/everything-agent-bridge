@@ -1,0 +1,26 @@
+# 原始路径列表：含本机绝对路径，永不发布
+list_es.txt
+list_walk.txt
+list_es_md.txt
+list_walk_md.txt
+raw_streams.bin
+
+# 投稿与办公文件
+*.docx
+*.doc
+*.zip
+*.bundle
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# 本机临时输出
+*_local.json
+*.log
+.DS_Store
+Thumbs.db
