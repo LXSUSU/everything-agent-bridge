@@ -27,7 +27,7 @@
 ├─ LICENSE
 ├─ requirements.txt
 ├─ paper/
-│  ├─ paper.md                  # 论文全文（Markdown）
+│  ├─ paper.md                  # 论文全文（Markdown，匿名版，适配双盲评审）
 │  └─ fig1_architecture.png     # 图 1：三层架构与复用边界
 ├─ code/
 │  ├─ es_bench.py               # 五类查询延迟分布（n=30）
